@@ -1,0 +1,34 @@
+@media screen and (max-width: 415px) {
+
+    .top_text_main_name {
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 45px;
+        letter-spacing: 0em;
+        text-align: center;
+    }
+
+    .vorman_main_text_name {
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 45px;
+        letter-spacing: 0.1em;
+        text-align: center;
+    }
+
+    .vorman_main_text_top2 div h4 {
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 39px;
+        letter-spacing: 0em;
+        text-align: center;
+    }
+
+    .vorman_main_text_top2 div p {
+        width: 96%;
+    }
+
+    .vorman_main_text_top1 {
+        width: calc(89% + 1px);
+    }
+}
